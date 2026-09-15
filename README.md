@@ -1,4 +1,4 @@
-![Dashboard Preview](madhav-ecommerce-dashboard.png)
+![Dashboard Preview](madhav-ecommerce-png.PNG)
 # madhav_ecommerce_analysis
  Power BI dashboard analyzing Madhav Ecommerce sales, profit trends, customer behavior, and payment patterns across India.
 # 🛒 Madhav Ecommerce Analysis Dashboard
